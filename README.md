@@ -4,7 +4,7 @@ This project is a simulation of classic **CPU scheduling algorithms** implemente
 
 >  Developed as part of the Operating Systems course (CSE316) for submission to the university.
 
-----------------------------------------------------------------------------------------
+
 
 ## Features
 
